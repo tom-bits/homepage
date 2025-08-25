@@ -1,0 +1,47 @@
+.section--centered {
+    text-align: center;
+}
+
+.section {
+    padding: 15px 0;
+}
+
+.section__image {
+    border-radius: 20%;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 5px #aaa;
+}
+
+.section__header {
+    color: hsl(180, 100%, 35%);
+    font-size: 36px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.section__subHeader {
+    color: hsl(180, 100%, 35%);
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.secion__paragraph {
+    line-height: 1.5;
+}
+
+.section__button {
+    background-color: hsl(180, 100%, 35%);
+    color: white;
+    padding: 15px;
+    border: none;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
